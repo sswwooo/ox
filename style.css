@@ -658,6 +658,9 @@ footer {
     opacity: 0.5;
 }
 
+.foot-list a:hover {
+    color: #FF5B2E;
+}
 .foot-list ul li {
     margin-top: 10px;
 }
